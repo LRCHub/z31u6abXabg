@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Give me Love!",
+  "base_artist": "429",
+  "createdAt": "2026-04-03T06:32:31.290976Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Give Me Love",
+      "artist": "LL Cool J feat. Seal",
+      "has_synced": true,
+      "path": "select/01_Give_Me_Love_LL_Cool_J_feat._Seal.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Give Me Love",
+      "artist": "LL Cool J/Seal",
+      "has_synced": true,
+      "path": "select/02_Give_Me_Love_LL_Cool_J_Seal.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give Me Love (Give Me Peace On Earth) [Live]",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/03_Give_Me_Love_(Give_Me_Peace_On_Earth)_[Live]_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Give Me Love (Give Me Peace on Earth)",
+      "artist": "George Harrison",
+      "has_synced": true,
+      "path": "select/04_Give_Me_Love_(Give_Me_Peace_on_Earth)_George_Harrison.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Can't Give Me Love",
+      "artist": "Pepsi & Shirlie",
+      "has_synced": false,
+      "path": "select/05_Can't_Give_Me_Love_Pepsi_&_Shirlie.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Give Me Love",
+      "artist": "MARUV feat. De La Ghetto",
+      "has_synced": false,
+      "path": "select/06_Give_Me_Love_MARUV_feat._De_La_Ghetto.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give Me Love (feat. De La Ghetto)",
+      "artist": "MARUV",
+      "has_synced": false,
+      "path": "select/07_Give_Me_Love_(feat._De_La_Ghetto)_MARUV.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Give me Love - Frankie Knuckles Remix",
+      "artist": "Cerrone",
+      "has_synced": false,
+      "path": "select/08_Give_me_Love_-_Frankie_Knuckles_Remix_Cerrone.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Give Me Love - Live At The Capital FM Studios In London, UK / May 30, 2014",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/09_Give_Me_Love_-_Live_At_The_Capital_FM_Studios_In_London,_UK___May_30,_2014_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Give Me Love (Live)",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/10_Give_Me_Love_(Live)_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Give Me Love",
+      "artist": "Alannah Myles",
+      "has_synced": false,
+      "path": "select/11_Give_Me_Love_Alannah_Myles.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Give Me Love (Give Me Peace On Earth) / Me And Bobby Mcgee / It Ain't Over 'Til It's Over - Ao Vivo",
+      "artist": "Marisa Monte",
+      "has_synced": true,
+      "path": "select/12_Give_Me_Love_(Give_Me_Peace_On_Earth)___Me_And_Bobby_Mcgee___It_Ain't_Over_'Til__Marisa_Monte.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Give Me Love (Give Me Peace On Earth)\u0000Me And Bobby Mcgee\u0000It Ain't Over 'Til It's Over",
+      "artist": "Marisa Monte",
+      "has_synced": true,
+      "path": "select/13_Give_Me_Love_(Give_Me_Peace_On_Earth)\u0000Me_And_Bobby_Mcgee\u0000It_Ain't_Over_'Til_It's_Marisa_Monte.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Give Me Love",
+      "artist": "LL Cool J",
+      "has_synced": true,
+      "path": "select/14_Give_Me_Love_LL_Cool_J.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "If You Can't Give Me Love",
+      "artist": "Suzi Quatro",
+      "has_synced": false,
+      "path": "select/15_If_You_Can't_Give_Me_Love_Suzi_Quatro.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "If You Can't Give Me Love",
+      "artist": "Suzi Quatro",
+      "has_synced": true,
+      "path": "select/16_If_You_Can't_Give_Me_Love_Suzi_Quatro.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Give Me Love (Give Me Peace on Earth) / Me and Bobby Mcgee / It Ain't over 'Til It's Over (Ao Vivo)",
+      "artist": "Marisa Monte",
+      "has_synced": true,
+      "path": "select/17_Give_Me_Love_(Give_Me_Peace_on_Earth)___Me_and_Bobby_Mcgee___It_Ain't_over_'Til__Marisa_Monte.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Give Me Love",
+      "artist": "Don Diablo feat. Calum Scott",
+      "has_synced": true,
+      "path": "select/18_Give_Me_Love_Don_Diablo_feat._Calum_Scott.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Give me Love! (feat. nyankobrq)",
+      "artist": "429",
+      "has_synced": false,
+      "path": "select/pl_01_Give_me_Love!_(feat._nyankobrq)_429.txt"
+    }
+  ]
+}
